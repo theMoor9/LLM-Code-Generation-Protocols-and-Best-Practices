@@ -15,10 +15,10 @@
 
 This repository contains two documents that define structured protocols for interacting with an artificial intelligence assistant (Large Language Model) to generate code quickly and efficiently:
 
-1. [Smart Code Support Protocol ⚡](./EN/smart_code_protocol)
-2. [Advanced Code Support Protocol 🎛️](./EN/advanced_code_protocol)
+1. [Smart Code Support Protocol ⚡](./EN/smart_code_protocol)  Reading time: 3 min
+2. [Advanced Code Support Protocol 🎛️](./EN/advanced_code_protocol) Reading time: 5 min
 
-Italian - [IT](./IT/)
+[IT](./IT/)
 
 ## Objective
 
