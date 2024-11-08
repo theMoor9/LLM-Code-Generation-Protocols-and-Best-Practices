@@ -1,8 +1,10 @@
 # Protocollo di supporto - Codice Avanzato🎛️
  
 <div style="font-size: 70%"><b>&#x1F553; Tempo di Lettura: 5 m</b></div>
+<br>
 
 > Copia e compila nella maniera opportuna le sezioni di markdown da inviare al Large Language Model.
+<br>
 
 ## Overview
 Template per generazione efficiente di codice tramite, query strutturate e modifiche avanzate.
@@ -26,6 +28,8 @@ Prima di passare al template base, assicurati di seguire queste linee guida:
 - Se possibile, fornisci un esempio concreto per illustrare meglio la richiesta
 
 ### LLM
+Usa il seguente blocco come prompt prima di iniziare:
+
 ```Markdown
 1. Mantieni la risposta strettamente focalizzata sulla richiesta fornita, senza spaziare in altre direzioni. E' possibile aggiungere contenuti metodi di risoluzione creativi oltre quanto specificato solo nella sezione: 📈 Apertura a suggerimenti di miglioramento oltre le specifiche.
 
