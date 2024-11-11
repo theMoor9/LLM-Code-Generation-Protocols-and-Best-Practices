@@ -1,10 +1,8 @@
 # Support Protocol - Advanced Code 🎛️
 
 <div style="font-size: 70%"><b>&#x1F553; Reading Time: 5 m</b></div>
-<br>
 
 > Copy and fill out the appropriate markdown sections to send to the Large Language Model.
-<br>
 
 ## Overview
 
@@ -31,8 +29,6 @@ Before moving on to the base template, make sure to follow these guidelines:
 - If possible, provide a concrete example to better illustrate the request
 
 ### LLM
-Use the following block as a promt before start:
-
 ```Markdown
 1. Keep the response strictly focused on the provided request, without wandering into other directions. It is possible to add content with creative problem-solving methods beyond what is specified only in the: 📈 Open to suggestions for improvement beyond the specifications section.
 

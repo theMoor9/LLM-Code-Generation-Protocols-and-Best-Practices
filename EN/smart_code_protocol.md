@@ -1,10 +1,8 @@
 # Support Protocol - Smart Code⚡
 
 <div style="font-size: 70%"><b>&#x1F553; Reading Time: 3 m</b></div> 
-<br>
 
 > Copy and fill out the markdown sections appropriately to send to the Large Language Model. 
-<br>
 
 ## Overview 
 Template for efficient code generation, quick edits, and repetitive tasks. 
@@ -20,8 +18,6 @@ Before moving on to the base template, make sure to follow these guidelines:
 - If possible, provide a concrete example to better illustrate the request 
 
 ### LLM 
-Use the following block as a promt before start:
-
 ```Markdown 
 1. Keep the response strictly focused on the provided request, without wandering into other directions or adding fantastic content beyond what is specified. 
 2. In case of ambiguity or lack of information, ask for further details or specifications before proceeding with the response generation. Do not generate content based on assumptions. 
@@ -140,6 +136,13 @@ def process_data(data):
 ✨ Extra:
 - Dependencies: gin-gonic
 - Constraints: standard REST
+- Code constraints: [if any]
+
+💻 Current Code (if present):
+```Go
+// Eventual dynamic configuration Block or Variables
+
+```.
 ```
 
 

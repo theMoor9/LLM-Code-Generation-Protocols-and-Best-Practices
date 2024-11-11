@@ -1,10 +1,8 @@
 # Protocollo di supporto - Codice Smart⚡
 
 <div style="font-size: 70%"><b>&#x1F553; Tempo di Lettura: 3 m</b></div>
-<br>
 
 > Copia e compila nella maniera opportuna le sezioni di markdown da inviare al Large Language Model.
-<br>
 
 ## Overview
 Template per generazione efficiente di codice, modifiche veloci e task ripetitive.
@@ -20,8 +18,6 @@ Prima di passare al template base, assicurati di seguire queste linee guida:
 - Se possibile, fornisci un esempio concreto per illustrare meglio la richiesta
 
 ### LLM
-Usa il seguente blocco come prompt prima di iniziare:
-
 ```Markdown
 1. Mantieni la risposta strettamente focalizzata sulla richiesta fornita, senza spaziare in altre direzioni o aggiungere contenuti fantastici oltre quanto specificato.
 
@@ -137,7 +133,16 @@ def process_data(data):
 ✨ Extra:
 - Dipendenze: gin-gonic
 - Vincoli: standard REST
+- Vincoli di codice [Se presente]: 
+
+💻 Codice attuale (se presente):
+``'Go
+// Eventuali variabili o blocchi di configurazione dinamica
+
+``' 
+
 ```
+
 
 
 --- 
