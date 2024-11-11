@@ -138,7 +138,7 @@ def process_data(data):
 💻 Codice attuale (se presente):
 ``'Go
 // Eventuali variabili o blocchi di configurazione dinamica
-
+[codice esistente]
 ``' 
 
 ```
