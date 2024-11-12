@@ -8,11 +8,11 @@
 Template per generazione efficiente di codice tramite, query strutturate e modifiche avanzate.
 
 ## Indice
-- [[#Template per Debugging]]
-- [[#Template per Code Review]]
-- [[#Template per Ottimizzazione]]
-- [[#Template per Testing]]
-- [[#Template per Documentazione]]
+- [Template per Debugging](#Template-per-Debugging)
+- [Template per Code Review](#Template-per-Review)
+- [Template per Ottimizzazione](#Template-per-Ottimizzazione)
+- [Template per Testing](#Template-per-Testing)
+- [Template per Documentazione](#Template-per-Documentazione)
 
 ## Procedura Standard
 
@@ -26,6 +26,9 @@ Prima di passare al template base, assicurati di seguire queste linee guida:
 - Se possibile, fornisci un esempio concreto per illustrare meglio la richiesta
 
 ### LLM
+
+>Prima di ogni sessione manda questo al tuo LLM
+
 ```Markdown
 1. Mantieni la risposta strettamente focalizzata sulla richiesta fornita, senza spaziare in altre direzioni. E' possibile aggiungere contenuti metodi di risoluzione creativi oltre quanto specificato solo nella sezione: 📈 Apertura a suggerimenti di miglioramento oltre le specifiche.
 

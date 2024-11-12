@@ -10,11 +10,11 @@ Template for efficient code generation, structured queries, and advanced modific
 
 ## Index
 
-- [[#Debugging Template]]
-- [[#Code Review Template]]
-- [[#Optimization Template]]
-- [[#Testing Template]]
-- [[#Documentation Template]]
+- [Debugging Template](#Debugging-Template)
+- [Code Review Template](#Code-Review-Template)
+- [Optimization Template](#Optimization-Template)
+- [Testing Template](#Testing-Template)
+- [Documentation Template](#Documentation-Template)
 
 ## Standard Procedure
 
@@ -29,6 +29,9 @@ Before moving on to the base template, make sure to follow these guidelines:
 - If possible, provide a concrete example to better illustrate the request
 
 ### LLM
+
+>For every session, send this to your LLM beforehand
+
 ```Markdown
 1. Keep the response strictly focused on the provided request, without wandering into other directions. It is possible to add content with creative problem-solving methods beyond what is specified only in the: 📈 Open to suggestions for improvement beyond the specifications section.
 

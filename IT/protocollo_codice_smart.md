@@ -18,6 +18,9 @@ Prima di passare al template base, assicurati di seguire queste linee guida:
 - Se possibile, fornisci un esempio concreto per illustrare meglio la richiesta
 
 ### LLM
+
+>Prima di ogni sessione manda questo al tuo LLM
+
 ```Markdown
 1. Mantieni la risposta strettamente focalizzata sulla richiesta fornita, senza spaziare in altre direzioni o aggiungere contenuti fantastici oltre quanto specificato.
 
