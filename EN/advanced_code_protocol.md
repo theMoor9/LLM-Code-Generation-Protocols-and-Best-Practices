@@ -10,6 +10,7 @@ Template for efficient code generation, structured queries, and advanced modific
 
 ## Index
 
+- [In-Code Documentation Template](#In-Code-Documentation-Template)
 - [Debugging Template](#Debugging-Template)
 - [Code Review Template](#Code-Review-Template)
 - [Optimization Template](#Optimization-Template)
@@ -64,9 +65,29 @@ For better results
 - Major refactoring
 
 ---
+## In-Code Documentation Template
+
+```Markdown
+### in-Code Documentation Request 
+
+🎯 Task: [one-line description]
+
+📝 Specifications:
+- Lang: [language]
+- Input: [what I have]
+- Output: [what's needed]
+
+✨ Extra (optional):
+- Dependencies: [if needed]
+- Constraints: [if any]
+
+💻 Current Code (if present):
+```[language]
+[existing code]
+```.
+```
 
 ## Debugging Template
-
 
 ###### When to Use the Template🎓
 - Production issues

@@ -146,8 +146,6 @@ def process_data(data):
 
 ```
 
-
-
 --- 
 
 #QuickCode #Development #Template

@@ -8,6 +8,7 @@
 Template per generazione efficiente di codice tramite, query strutturate e modifiche avanzate.
 
 ## Indice
+- [Template per Documentazione In-Code](#Template-per-Documentazione-In-Code)
 - [Template per Debugging](#Template-per-Debugging)
 - [Template per Code Review](#Template-per-Review)
 - [Template per Ottimizzazione](#Template-per-Ottimizzazione)
@@ -59,6 +60,28 @@ Per migliori risultati
 - Refactoring major
 
 --- 
+## Template per Documentazione In-Code
+
+```Markdown
+### in-Code Documentation Request 
+
+🎯 Task: [descrizione one-line]
+
+📝 Specifiche:
+- Lang: [linguaggio]
+- Input: [cosa ho]
+- Output: [cosa serve]
+
+✨ Extra (opzionale):
+- Dipendenze: [se necessarie]
+- Vincoli: [se presenti]
+
+💻 Current Code (if present):
+```[language]
+[existing code]
+```.
+```
+
 ## Template per Debugging
 
 ###### Quando Usare il Template🎓
